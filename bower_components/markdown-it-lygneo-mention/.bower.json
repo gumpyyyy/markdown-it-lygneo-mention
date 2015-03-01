@@ -1,7 +1,6 @@
 {
   "name": "markdown-it-lygneo-mention",
   "main": "dist/markdown-it-lygneo-mention.js",
-  "version": "0.2.0",
   "description": "lygneo mentions for markdown-it markdown parser",
   "keywords": [
     "markdown-it-plugin",
@@ -11,7 +10,7 @@
     "mention"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/gumpyyyy/markdown-it-lygneo-mention",
+  "homepage": "https://github.com/gumpyyyy/rails-assets-markdown-it-lygneo-mention",
   "ignore": [
     "**/.*",
     "benchmark",
@@ -25,5 +24,15 @@
     "test",
     "Makefile",
     "index*"
-  ]
+  ],
+  "_release": "28da91311d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "28da91311dd91f9af8026d1cd79642ec184f6375"
+  },
+  "_source": "git://github.com/gumpyyyy/rails-assets-markdown-it-lygneo-mention.git",
+  "_target": "*",
+  "_originalSource": "markdown-it-lygneo-mention",
+  "_direct": true
 }

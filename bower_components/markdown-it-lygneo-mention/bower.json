@@ -1,7 +1,7 @@
 {
   "name": "markdown-it-lygneo-mention",
   "main": "dist/markdown-it-lygneo-mention.js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "lygneo mentions for markdown-it markdown parser",
   "keywords": [
     "markdown-it-plugin",
@@ -11,7 +11,7 @@
     "mention"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/gumpyyyy/markdown-it-lygneo-mention",
+  "homepage": "https://github.com/gumpyyyy/rails-assets-markdown-it-lygneo-mention",
   "ignore": [
     "**/.*",
     "benchmark",
